@@ -11,7 +11,7 @@ import org.apache.spark.sql.DataFrame
  */
 object Duplicates {
   /**
-   * Checking the duplicates in DataFrame with the given column names
+   * Checking the duplicates in DataFrame with the given column names and throws exception
    * @param df DataFrame in which ,need to find duplicates
    * @param columns column names,which are used to check the duplicates
    * @return DataFrame

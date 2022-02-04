@@ -1,7 +1,7 @@
 ***Spark unit test App***
 
 - Application input and output paths are in **application-dev.conf** file.
-- Changed in Master data is kept in resources/input
+- Changed in Dev branch data is kept in resources/input
 
 **How to Run**
 1. Create jar file  with Maven.
